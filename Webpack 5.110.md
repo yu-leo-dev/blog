@@ -2,6 +2,14 @@
 
 _12 Sep 2026_
 
+> [!IMPORTANT]
+> Если в системе установлен только Bun (без Node.js и npm), тогда лучше создать символьные ссылки, т.к. create-webpack-app требует npm.
+
+```bash
+ln -s $(which bun) $(dirname $(which bun))/node
+ln -s $(which bun) $(dirname $(which bun))/npm
+```
+
 ## 1. Get Started
 
 ```bash
