@@ -8,7 +8,7 @@ _12 Sep 2026_
 
 В перспективе можно еще посмотреть в сторону **Python, Go, Rust**
 
-[Bun 1.4](Bun 1.4.md) - среда выполнения Typescript
+[Bun 1.4](bun.md) - среда выполнения Typescript
 
 Предыдущее решение было **Node.js / npm / ts-node**. Несмотря на то, что Node.js пока [лидирует](https://2025.stateofjs.com/en-US/other-tools/#runtimes), а также научился самостоятельно выполнять TypeScript в последних версиях - поезд ушел. Bun уже на 3-м месте, опережая Deno.
 
