@@ -23,7 +23,7 @@ bun serve
 ```
 
 > [!NOTE]
-> 📦 Размер основного JS-бандла: 183 kB (react-dom, react-router-dom)
+> 📦 Размер основного JS-бандла: 183 kB (react-dom 132kB, react-router-dom 41kB, react 8kB)
 
 Ссылки
 
