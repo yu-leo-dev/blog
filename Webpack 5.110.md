@@ -1,8 +1,8 @@
-## Webpack 5.110
+# Webpack 5.110
 
 _12 Sep 2026_
 
-### 1. Get Started
+## 1. Get Started
 
 ```bash
 bunx create-webpack-app my-webpack-app --template react
