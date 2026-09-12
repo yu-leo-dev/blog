@@ -24,6 +24,7 @@ bun serve
 
 > [!NOTE]
 > 📦 Размер основного JS-бандла: 183 kB (react-dom 132kB, react-router-dom 41kB, react 8kB)
+> ⚠️ Если апгрейдится до React 19.3, то бандл будет 262kB [+79kB] (react-dom@19.3 210kB)
 
 Ссылки
 
