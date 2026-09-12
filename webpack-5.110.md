@@ -19,7 +19,7 @@ bunx create-webpack-app my-webpack-app --template react
 cd my-webpack-app
 bun run build
 bun serve
-# Вместо `bun serve` можно запустить`bun ./dist/index.html`
+# Вместо `bun serve` можно запустить bun ./dist/index.html
 ```
 
 > [!NOTE]
