@@ -18,7 +18,7 @@ _12 Sep 2026_
 
 Здесь даже думать нечего. Конкуренты Vue, Angular, Svelte - далеко [позади](https://2025.stateofjs.com/en-US/libraries/front-end-frameworks/)
 
-[TanStack Start RC](TanStack Start RC.md), [Astro 7.3](https://astro.build/) - мета-фреймворки
+[TanStack Start RC](tanstack-start-rc.md), [Astro 7.3](https://astro.build/) - мета-фреймворки
 
 Конечно же, почти все используют Next. На сегодня - это стандарт в отрасли. Но сложность Next и простота TanStack сделают свое дело. А серверные функции TanStack это вообще супер - можно писать фронтенд и бэкенд как одно целое. Никаких API. У Next и TanStack есть серверные компоненты, но это не то. TanStack также использует Vite, который вроде как лучше, чем Turbopack в Next.
 
