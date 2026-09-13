@@ -1,4 +1,4 @@
-# Изучаем TanStack Start
+# TanStack Start RC
 
 ## 1. [Getting Started](https://tanstack.com/start/latest/docs/framework/react/getting-started)
 
