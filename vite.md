@@ -1,5 +1,7 @@
 # Vite 8.3
 
+_12 Sep 2026_
+
 ## 1. Getting Started
 
 ```bash
