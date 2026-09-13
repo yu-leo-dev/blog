@@ -20,6 +20,8 @@ bun run build
 
 > [!NOTE]
 > 📦 Размер основного JS-бандла: 433 kB [client+server] (react-dom@19.3 210kB. А что остальное? Сервер?)
+> bun init my-bun-app --react=tailwind # 214 kB
+> bun init my-bun-app --react=shadcn # 349 kB
 
 Ссылки
 
