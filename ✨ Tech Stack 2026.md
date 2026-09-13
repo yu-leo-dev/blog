@@ -8,7 +8,7 @@ _12 Sep 2026_
 
 В перспективе можно еще посмотреть в сторону **Python, Go, Rust**
 
-[Bun 1.4](bun-1.4.md) - среда выполнения Typescript
+[Bun 1.4](bun.md) - среда выполнения Typescript
 
 Предыдущее решение было **Node.js / npm / ts-node**. Несмотря на то, что Node.js пока [лидирует](https://2025.stateofjs.com/en-US/other-tools/#runtimes), а также научился самостоятельно выполнять TypeScript в последних версиях - поезд ушел. Bun уже на 3-м месте, опережая Deno.
 
@@ -18,7 +18,7 @@ _12 Sep 2026_
 
 Здесь даже думать нечего. Конкуренты Vue, Angular, Svelte - далеко [позади](https://2025.stateofjs.com/en-US/libraries/front-end-frameworks/)
 
-[TanStack Start RC](tanstack-start-rc.md), [Astro 7.3](https://astro.build/) - мета-фреймворки
+[TanStack Start RC](tanstack-start.md), [Astro 7.3](https://astro.build/) - мета-фреймворки
 
 Конечно же, почти все используют Next. На сегодня - это стандарт в отрасли. Но сложность Next и простота TanStack сделают свое дело. А серверные функции TanStack это вообще супер - можно писать фронтенд и бэкенд как одно целое. Никаких API. У Next и TanStack есть серверные компоненты, но это не то. TanStack также использует Vite, который вроде как лучше, чем Turbopack в Next.
 
