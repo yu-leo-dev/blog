@@ -18,6 +18,9 @@ cd my-bun-app/
 bun run build
 ```
 
+> [!NOTE]
+> 📦 Размер основного JS-бандла: 433 kB [client+server] (react-dom@19.3 210kB. А что остальное? Сервер?)
+
 Ссылки
 
 1. [Bun Site](https://bun.com/)
